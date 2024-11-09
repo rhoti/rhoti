@@ -38,6 +38,9 @@ I’m currently working on enhancing my skills in **AI/ML model deployment** and
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rhoti) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rhoti) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rhoti) 
 
   
-
+  ##  Projects  
+  <a href="https://github.com/rhoti/kenya-tea-production-analysis"> kenya-tea-production-analysis </a>
+  <p>This project analyzes the impact of climate change, agricultural practices, and market dynamics on tea production and export in Kenya over the past 20 years</p>
+  
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate or discuss exciting projects.
 
