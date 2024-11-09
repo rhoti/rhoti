@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am a passionate **Software Developer** with expertise across multiple domains, including web and mobile development, machine learning, data engineering, and business analytics. I leverage cutting-edge technologies to build impactful solutions and optimize processes. With a strong foundation in **Python**, **JavaScript**, **Flutter**, **ML/AI**, and **Data Engineering**, I strive to deliver high-quality, scalable solutions for both business and technical challenges.
 
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" >
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rhoti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/collins-kipkoech-a32855230) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rhoti) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rhoti) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/rhoti) 
